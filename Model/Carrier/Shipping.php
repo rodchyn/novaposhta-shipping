@@ -13,7 +13,7 @@ class Shipping extends \Magento\Shipping\Model\Carrier\AbstractCarrier implement
     /**
      * @var string
      */
-    protected $_code = 'simpleshipping';
+    protected $_code = 'novaposhtashipping';
     /**
      * @var \Magento\Shipping\Model\Rate\ResultFactory
      */
